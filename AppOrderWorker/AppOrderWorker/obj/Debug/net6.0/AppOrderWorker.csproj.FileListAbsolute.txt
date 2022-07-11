@@ -1,0 +1,17 @@
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\AppOrderWorker.exe
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\AppOrderWorker.deps.json
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\AppOrderWorker.runtimeconfig.json
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\AppOrderWorker.dll
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\AppOrderWorker.pdb
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.csproj.AssemblyReference.cache
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.AssemblyInfoInputs.cache
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.AssemblyInfo.cs
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.csproj.CoreCompileInputs.cache
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.csproj.CopyComplete
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.dll
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\refint\AppOrderWorker.dll
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.pdb
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\AppOrderWorker.genruntimeconfig.cache
+C:\Users\hitalo.nunes.fonnetnetworks\source\repos\TutoMensageria\AppOrderWorker\AppOrderWorker\obj\Debug\net6.0\ref\AppOrderWorker.dll
